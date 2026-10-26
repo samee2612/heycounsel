@@ -75,16 +75,3 @@ All 7 test suites verify:
 - MCP tool definition introspection
 
 ---
-
-## 2-Minute Interview Pitch Script
-
-1. **Context & Motivation**:
-   *"I saw that HeyCounsel operates a collaborative platform for independent lawyers, centered around the Hive Mind knowledge base, lawyer matching, and expanding toward marketplace functionality on Python, FastAPI, SQLAlchemy, Next.js, and MCPs."*
-
-2. **The Prototype**:
-   *"To show how I think about HeyCounsel's architecture, I built a working prototype called the HeyCounsel Hive Mind & Co-Counsel Hub."*
-
-3. **Demonstrating Core Competencies**:
-   - *"On the backend, I used FastAPI with SQLAlchemy 2.0 models for lawyers, precedents, and referrals, paired with a local semantic search engine that delivers sub-15ms AI query synthesis without expensive external API bills."*
-   - *"On the frontend, I used Next.js App Router and TypeScript to provide a clean legal-grade UI with instant clause copying, San Diego jurisdictional filters, and referral workflows."*
-   - *"And importantly, I implemented an MCP server so an attorney drafting in Claude or Cursor can invoke `search_hive_mind` directly from their editor."*
